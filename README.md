@@ -1,1 +1,27 @@
-As an AI Engineer, my passion is building creative, end-to-end solutions for complex, real-world challenges This passion has led me to work on a wide spectrum of AI challenges, from interpreting intricate satellite data with **computer vision** to understanding human language through **audio processing**. My strength lies in building these creative, end-to-end solutions—whether that involves deep feature engineering for a gradient boosting model or fine-tuning a state-of-the-art transformer. I am driven by the challenge of creating technology that truly makes a difference.
+
+# AI Engineer Portfolio
+
+## 🌟 About Me  
+Hi ! my name is Abdourahamane . I am an AI Engineering student passionate about building technology that serves people. My mission is to harness the power of machine learning to create practical, impactful solutions for real-world challenges.
+
+## 🚀 My Journey  
+My work focuses on applying AI to domains that matter most:
+- 🛰️ **Computer Vision for Satellite Data**: Extracting insights from high-resolution imagery to support sustainable agriculture and environmental monitoring.
+- 🌍 **Environmental Monitoring**: Leveraging models to track and protect our planet through intelligent data analysis.
+- 🗣️ **Natural Language Processing for Language Accessibility**: Designing systems that make communication inclusive, intuitive, and barrier-free.
+
+## 👩‍💻 Expertise  
+I specialize in:
+- 🎯 **Predictive Modeling**: Designing creative and effective solutions for forecasting and decision-making.
+- 🧪 **Classification Models**: Building sophisticated systems to categorize and interpret complex data.
+- 📈 **Forecasting Models**: Anticipating trends and behaviors to drive proactive strategies.
+
+## 🌎 Vision  
+I am committed to building not just models, but tools for a better world — technology that empowers, uplifts, and transforms lives.
+
+---
+
+📫 *Let’s connect and build something meaningful together!*
+
+---
+
