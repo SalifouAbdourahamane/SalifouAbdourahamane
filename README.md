@@ -1,6 +1,3 @@
-
-# AI Engineer Portfolio
-
 ## 🌟 About Me  
 Hi ! my name is Abdourahamane . I am an AI Engineering student passionate about building technology that serves people. My mission is to harness the power of machine learning to create practical, impactful solutions for real-world challenges.
 
@@ -22,6 +19,3 @@ I am committed to building not just models, but tools for a better world — tec
 ---
 
 📫 *Let’s connect and build something meaningful together!*
-
----
-
